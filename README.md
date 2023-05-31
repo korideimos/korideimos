@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm kori</h1>
 <h3 align="center">Student of ITMO University, teacher of web-design</h3>
 
-- 🔭 I’m currently working on **Tetris**
+- 🔭 I’m currently working on **game: 'Who stole the oranges?'**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Blender** and **Uniti**
 
 - 👨‍💻 All of my projects are available [**here**](https://github.com/korideimos)
 
