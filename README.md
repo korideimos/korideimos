@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **educational game (local history)**
 
-- 🌱 I’m currently learning **GDevelop**
+- 🌱 I’m currently learning **Godot**
 
 - 👨‍💻 All of my projects are available [**here**](https://github.com/korideimos)
 
